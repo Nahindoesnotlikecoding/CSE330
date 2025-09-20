@@ -1,4 +1,4 @@
-# CSE220
+# CSE330
 
 <h3>This is the Numerical Methods course at BRAC University for the Summer 2025 semester, primarily focused on Python. </h3>
 <br>
